@@ -1,4 +1,4 @@
-# React Form Crafter
+# RN Form Crafter
 [React Hook Form](https://react-hook-form.com/) is a great library for building forms with [React](https://reactjs.org/), but it is a little verbose, especially with [React Native](https://reactnative.dev/). **RN Form Crafter** solves this problem by offering a lean but still customizable API.
 
 ## Features
