@@ -6,6 +6,7 @@
 ## Features
 - :star: **Agnostic user interface:** By default it uses [React Native Core Components](https://reactnative.dev/docs/intro-react-native-components), but you can use any UI library.
 - :star: **Complex form validation:** Thanks to [React Hook Form](https://react-hook-form.com/) it is possible to use [basic validation](https://react-hook-form.com/get-started#Applyvalidation) or [complex schema-based validation](https://react-hook-form.com/get-started#SchemaValidation).
-- :star: **Many input types**: Text field, Masked text field, Autocomplete, Multiple autocomplete, Select, Multiple select, Date, Time, Checkbox, and Radio button. 
+- :star: **Many input types**: Autocomplete, Checkbox, Date, Masked text, Radio button, Select, Text, and Time. 
+- :star: **Nested inputs**: Wrap your inputs with other components and they will continue to work as expected.
 - :star: **Specific text inputs**: Easily mask and validate common text fields such as phone number, email, password, zip code, etc.
-- :star: **Wizard form**: Easily create complex forms with steps and specific rules.
+- :star: **Wizard form**: Create complex forms with steps and specific rules in an intuitive way.
